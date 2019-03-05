@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "rest-assured",
+      "author": "Java"
+    },
+    {
+      "author": "KK",
+      "id": "3",
+      "title": "Robotium"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Awesome",
+      "postId": 2
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    },
+    {
+      "name": "KK"
+    },
+    {
+      "id": "3",
+      "name": "puppy"
+    },
+    {
+      "name": "Chow",
+      "postId": "3",
+      "id": "-Bj-J16"
+    },
+    {
+      "name": "Chow chow",
+      "postId": "3",
+      "id": "l1uHBxh"
+    },
+    {
+      "name": "Chow",
+      "postId": "3",
+      "id": "0MksOHU"
+    },
+    {
+      "name": "Chow chow",
+      "postId": "3",
+      "id": "nJg0AZP"
+    },
+    {
+      "name": "Chow",
+      "postId": "3",
+      "id": "iRJ2fEo"
+    },
+    {
+      "name": "Chow",
+      "postId": "3",
+      "id": "ELVB3D6"
+    },
+    {
+      "name": "Chow",
+      "postId": "3",
+      "id": "VUXdMiF"
+    }
+  ]
+}
