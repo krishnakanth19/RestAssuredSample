@@ -1,0 +1,2 @@
+# RestAssuredSample
+Practice on RestAssured
